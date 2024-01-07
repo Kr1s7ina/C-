@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "T1ZMKNgb3uV8YwhhtDH5aoEsz7eeVy7C6TXoASF0z7GUCtAUr1bJdVh2shiqebFWhytpQY2+eIfxI4FcPLw4xw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tomas\\OneDrive\\Desktop\\C#\\asmensKoduGeneratorius\\KoduGeneratorius  Galutinis\\KoduGeneratorius\\KoduGeneratorius.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tomas\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

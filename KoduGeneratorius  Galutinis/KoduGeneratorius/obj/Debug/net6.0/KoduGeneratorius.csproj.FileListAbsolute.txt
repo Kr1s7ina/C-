@@ -1,0 +1,51 @@
+C:\Users\tomas\OneDrive\Desktop\C#\asmensKoduGeneratorius\KoduGeneratorius\KoduGeneratorius\bin\Debug\net6.0\KoduGeneratorius.exe
+C:\Users\tomas\OneDrive\Desktop\C#\asmensKoduGeneratorius\KoduGeneratorius\KoduGeneratorius\bin\Debug\net6.0\KoduGeneratorius.deps.json
+C:\Users\tomas\OneDrive\Desktop\C#\asmensKoduGeneratorius\KoduGeneratorius\KoduGeneratorius\bin\Debug\net6.0\KoduGeneratorius.runtimeconfig.json
+C:\Users\tomas\OneDrive\Desktop\C#\asmensKoduGeneratorius\KoduGeneratorius\KoduGeneratorius\bin\Debug\net6.0\KoduGeneratorius.dll
+C:\Users\tomas\OneDrive\Desktop\C#\asmensKoduGeneratorius\KoduGeneratorius\KoduGeneratorius\bin\Debug\net6.0\KoduGeneratorius.pdb
+C:\Users\tomas\OneDrive\Desktop\C#\asmensKoduGeneratorius\KoduGeneratorius\KoduGeneratorius\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\tomas\OneDrive\Desktop\C#\asmensKoduGeneratorius\KoduGeneratorius\KoduGeneratorius\obj\Debug\net6.0\KoduGeneratorius.csproj.AssemblyReference.cache
+C:\Users\tomas\OneDrive\Desktop\C#\asmensKoduGeneratorius\KoduGeneratorius\KoduGeneratorius\obj\Debug\net6.0\KoduGeneratorius.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomas\OneDrive\Desktop\C#\asmensKoduGeneratorius\KoduGeneratorius\KoduGeneratorius\obj\Debug\net6.0\KoduGeneratorius.AssemblyInfoInputs.cache
+C:\Users\tomas\OneDrive\Desktop\C#\asmensKoduGeneratorius\KoduGeneratorius\KoduGeneratorius\obj\Debug\net6.0\KoduGeneratorius.AssemblyInfo.cs
+C:\Users\tomas\OneDrive\Desktop\C#\asmensKoduGeneratorius\KoduGeneratorius\KoduGeneratorius\obj\Debug\net6.0\KoduGeneratorius.csproj.CoreCompileInputs.cache
+C:\Users\tomas\OneDrive\Desktop\C#\asmensKoduGeneratorius\KoduGeneratorius\KoduGeneratorius\obj\Debug\net6.0\KoduGeneratorius.csproj.CopyComplete
+C:\Users\tomas\OneDrive\Desktop\C#\asmensKoduGeneratorius\KoduGeneratorius\KoduGeneratorius\obj\Debug\net6.0\KoduGeneratorius.dll
+C:\Users\tomas\OneDrive\Desktop\C#\asmensKoduGeneratorius\KoduGeneratorius\KoduGeneratorius\obj\Debug\net6.0\refint\KoduGeneratorius.dll
+C:\Users\tomas\OneDrive\Desktop\C#\asmensKoduGeneratorius\KoduGeneratorius\KoduGeneratorius\obj\Debug\net6.0\KoduGeneratorius.pdb
+C:\Users\tomas\OneDrive\Desktop\C#\asmensKoduGeneratorius\KoduGeneratorius\KoduGeneratorius\obj\Debug\net6.0\KoduGeneratorius.genruntimeconfig.cache
+C:\Users\tomas\OneDrive\Desktop\C#\asmensKoduGeneratorius\KoduGeneratorius\KoduGeneratorius\obj\Debug\net6.0\ref\KoduGeneratorius.dll
+C:\Users\tomas\OneDrive\Desktop\C#\asmensKoduGeneratorius\KoduGeneratorius - Copy\KoduGeneratorius\bin\Debug\net6.0\KoduGeneratorius.exe
+C:\Users\tomas\OneDrive\Desktop\C#\asmensKoduGeneratorius\KoduGeneratorius - Copy\KoduGeneratorius\bin\Debug\net6.0\KoduGeneratorius.deps.json
+C:\Users\tomas\OneDrive\Desktop\C#\asmensKoduGeneratorius\KoduGeneratorius - Copy\KoduGeneratorius\bin\Debug\net6.0\KoduGeneratorius.runtimeconfig.json
+C:\Users\tomas\OneDrive\Desktop\C#\asmensKoduGeneratorius\KoduGeneratorius - Copy\KoduGeneratorius\bin\Debug\net6.0\KoduGeneratorius.dll
+C:\Users\tomas\OneDrive\Desktop\C#\asmensKoduGeneratorius\KoduGeneratorius - Copy\KoduGeneratorius\bin\Debug\net6.0\KoduGeneratorius.pdb
+C:\Users\tomas\OneDrive\Desktop\C#\asmensKoduGeneratorius\KoduGeneratorius - Copy\KoduGeneratorius\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\tomas\OneDrive\Desktop\C#\asmensKoduGeneratorius\KoduGeneratorius - Copy\KoduGeneratorius\obj\Debug\net6.0\KoduGeneratorius.csproj.AssemblyReference.cache
+C:\Users\tomas\OneDrive\Desktop\C#\asmensKoduGeneratorius\KoduGeneratorius - Copy\KoduGeneratorius\obj\Debug\net6.0\KoduGeneratorius.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomas\OneDrive\Desktop\C#\asmensKoduGeneratorius\KoduGeneratorius - Copy\KoduGeneratorius\obj\Debug\net6.0\KoduGeneratorius.AssemblyInfoInputs.cache
+C:\Users\tomas\OneDrive\Desktop\C#\asmensKoduGeneratorius\KoduGeneratorius - Copy\KoduGeneratorius\obj\Debug\net6.0\KoduGeneratorius.AssemblyInfo.cs
+C:\Users\tomas\OneDrive\Desktop\C#\asmensKoduGeneratorius\KoduGeneratorius - Copy\KoduGeneratorius\obj\Debug\net6.0\KoduGeneratorius.csproj.CoreCompileInputs.cache
+C:\Users\tomas\OneDrive\Desktop\C#\asmensKoduGeneratorius\KoduGeneratorius - Copy\KoduGeneratorius\obj\Debug\net6.0\KoduGeneratorius.csproj.CopyComplete
+C:\Users\tomas\OneDrive\Desktop\C#\asmensKoduGeneratorius\KoduGeneratorius - Copy\KoduGeneratorius\obj\Debug\net6.0\KoduGeneratorius.dll
+C:\Users\tomas\OneDrive\Desktop\C#\asmensKoduGeneratorius\KoduGeneratorius - Copy\KoduGeneratorius\obj\Debug\net6.0\refint\KoduGeneratorius.dll
+C:\Users\tomas\OneDrive\Desktop\C#\asmensKoduGeneratorius\KoduGeneratorius - Copy\KoduGeneratorius\obj\Debug\net6.0\KoduGeneratorius.pdb
+C:\Users\tomas\OneDrive\Desktop\C#\asmensKoduGeneratorius\KoduGeneratorius - Copy\KoduGeneratorius\obj\Debug\net6.0\KoduGeneratorius.genruntimeconfig.cache
+C:\Users\tomas\OneDrive\Desktop\C#\asmensKoduGeneratorius\KoduGeneratorius - Copy\KoduGeneratorius\obj\Debug\net6.0\ref\KoduGeneratorius.dll
+C:\Users\tomas\OneDrive\Desktop\C#\asmensKoduGeneratorius\KoduGeneratorius  Galutinis\KoduGeneratorius\bin\Debug\net6.0\KoduGeneratorius.exe
+C:\Users\tomas\OneDrive\Desktop\C#\asmensKoduGeneratorius\KoduGeneratorius  Galutinis\KoduGeneratorius\bin\Debug\net6.0\KoduGeneratorius.deps.json
+C:\Users\tomas\OneDrive\Desktop\C#\asmensKoduGeneratorius\KoduGeneratorius  Galutinis\KoduGeneratorius\bin\Debug\net6.0\KoduGeneratorius.runtimeconfig.json
+C:\Users\tomas\OneDrive\Desktop\C#\asmensKoduGeneratorius\KoduGeneratorius  Galutinis\KoduGeneratorius\bin\Debug\net6.0\KoduGeneratorius.dll
+C:\Users\tomas\OneDrive\Desktop\C#\asmensKoduGeneratorius\KoduGeneratorius  Galutinis\KoduGeneratorius\bin\Debug\net6.0\KoduGeneratorius.pdb
+C:\Users\tomas\OneDrive\Desktop\C#\asmensKoduGeneratorius\KoduGeneratorius  Galutinis\KoduGeneratorius\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\tomas\OneDrive\Desktop\C#\asmensKoduGeneratorius\KoduGeneratorius  Galutinis\KoduGeneratorius\obj\Debug\net6.0\KoduGeneratorius.csproj.AssemblyReference.cache
+C:\Users\tomas\OneDrive\Desktop\C#\asmensKoduGeneratorius\KoduGeneratorius  Galutinis\KoduGeneratorius\obj\Debug\net6.0\KoduGeneratorius.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomas\OneDrive\Desktop\C#\asmensKoduGeneratorius\KoduGeneratorius  Galutinis\KoduGeneratorius\obj\Debug\net6.0\KoduGeneratorius.AssemblyInfoInputs.cache
+C:\Users\tomas\OneDrive\Desktop\C#\asmensKoduGeneratorius\KoduGeneratorius  Galutinis\KoduGeneratorius\obj\Debug\net6.0\KoduGeneratorius.AssemblyInfo.cs
+C:\Users\tomas\OneDrive\Desktop\C#\asmensKoduGeneratorius\KoduGeneratorius  Galutinis\KoduGeneratorius\obj\Debug\net6.0\KoduGeneratorius.csproj.CoreCompileInputs.cache
+C:\Users\tomas\OneDrive\Desktop\C#\asmensKoduGeneratorius\KoduGeneratorius  Galutinis\KoduGeneratorius\obj\Debug\net6.0\KoduGeneratorius.csproj.CopyComplete
+C:\Users\tomas\OneDrive\Desktop\C#\asmensKoduGeneratorius\KoduGeneratorius  Galutinis\KoduGeneratorius\obj\Debug\net6.0\KoduGeneratorius.dll
+C:\Users\tomas\OneDrive\Desktop\C#\asmensKoduGeneratorius\KoduGeneratorius  Galutinis\KoduGeneratorius\obj\Debug\net6.0\refint\KoduGeneratorius.dll
+C:\Users\tomas\OneDrive\Desktop\C#\asmensKoduGeneratorius\KoduGeneratorius  Galutinis\KoduGeneratorius\obj\Debug\net6.0\KoduGeneratorius.pdb
+C:\Users\tomas\OneDrive\Desktop\C#\asmensKoduGeneratorius\KoduGeneratorius  Galutinis\KoduGeneratorius\obj\Debug\net6.0\KoduGeneratorius.genruntimeconfig.cache
+C:\Users\tomas\OneDrive\Desktop\C#\asmensKoduGeneratorius\KoduGeneratorius  Galutinis\KoduGeneratorius\obj\Debug\net6.0\ref\KoduGeneratorius.dll
